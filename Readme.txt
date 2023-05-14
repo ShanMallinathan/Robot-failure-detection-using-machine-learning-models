@@ -1,4 +1,4 @@
-AI ML Assignment by Shanthinath Mallinahan (S389152)
+This model is trained on a UCI dataset
 
 The folder contains:
 
